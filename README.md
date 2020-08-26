@@ -1,5 +1,7 @@
 ## What is this
-It's a minecraft mod.
+It's a copy of qouteall's minecraft mod.
+
+https://github.com/qouteall/ImmersivePortalsMod
 
 https://www.curseforge.com/minecraft/mc-mods/immersive-portals-mod
 
